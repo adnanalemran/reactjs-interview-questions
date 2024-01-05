@@ -1,13 +1,3 @@
-# React Interview Questions & Answers
-
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@adnanalemran1](https://twitter.com/adnanalemran1) for technical updates.
-
----
-
----
-
----
-
 ### Table of Contents
 
 | No. | Questions                                                                                                                                                                                                                        |
